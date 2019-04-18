@@ -1,3 +1,13 @@
+SINATRA_ACTIVESUPPORT_WARNING=false
+require 'paint'
+require 'colorize'
+require 'httparty'
+require 'json'
+require 'dragonfly'
+require 'terminal-table'
+
+
+
 require 'bundler'
 Bundler.require
 
